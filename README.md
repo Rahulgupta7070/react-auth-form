@@ -14,7 +14,4 @@ A simple React authentication form built with React and Vite.
 - JavaScript
 - CSS
 
-## How to Run Locally
-```bash
-npm install
-npm run dev
+v
